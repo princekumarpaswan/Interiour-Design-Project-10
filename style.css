@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    height: 100%;
+    padding: 0px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    box-sizing: border-box;
+    max-width: 180rem;
+
+}
+body{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: fit-content;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px 50px;
+    
+}
+.logo{
+    color: white;
+    font-size: 40px;
+}
+.menu li{
+    display: flex;
+    float: left;
+    list-style: none;    
+    font-size: 30px;
+    margin-left: 50px;
+    color: white;
+    font-weight: 900;
+}
+
+.menu{
+    display: flex;
+    margin-top: -50px;
+    margin-left: -200px;
+}
+.left-nav{
+    display: flex;
+    align-items: center;
+    margin-top: -50px;
+    color: white;
+    font-weight: 900;
+    font-size: 30px
+}
+.leftlogo span{margin-top: 15px;
+    width: 55px;
+    font-weight: 600;
+    font-size: 50px;
+}
+
+.line{
+    border-top: 5px solid white;
+    margin-top: -100px;
+    margin-left: 450px;
+    margin-right: 50px;
+}
+.mid h1{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 150px;
+    font-size: 90px;
+    color: white;
+}
+.mid h2{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 50px;
+    color: white;
+    border: 3px solid white;
+    width: 250px;
+    padding: 20px 30px;
+    border-radius: 30px;
+}
+
+.firstlogo{
+    margin-top: -350px;
+    background-color: rgba(238, 235, 241, 0.158);
+    color: white;
+    margin-right: 150px;
+    margin-left: 1800px;
+    font-size: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.firstlogo img{
+    width: 100px;
+    height: 65px;
+    border-radius: 70px;
+}
+.rightline{
+    border-right: 2px solid white;
+    height: 100px;
+    margin-right: 300px;
+}
+.rightdot{
+    display: flex;
+    justify-content: right;
+    font-size: 80px;
+    color: white;
+    margin-right: 286px;
+    margin-top: -50px;
+    
+}
+.secondlogo{
+    margin-top: 40px;
+    background-color: rgba(238, 235, 241, 0.158);
+    color: white;
+    margin-right: 550px;
+    margin-left: 1300px;
+    font-size: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.secondlogo img{
+    width: 100px;
+    height: 65px;
+    border-radius: 70px;
+}
+.lline{
+    display: flex;
+    border-top: 2px solid white;
+    justify-content: right;
+    width: 100px;
+    margin-left: 2010px;
+    margin-top: -250px;
+}
+.leftdot{
+    display: flex;
+    justify-content: right;
+    font-size: 80px;
+    color: white;
+    margin-right: 150px;
+    margin-top: 2px;
+
+}
