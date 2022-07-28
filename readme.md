@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Interiour Design Page (project-10)](https://developerlanding-page.netlify.app/)
+## [Link to the Interiour Design Page (project-10)](https://interiour.netlify.app/)
 
 
 ![Completed Website](img.png)
