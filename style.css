@@ -274,7 +274,7 @@ nav{
         margin-top: 40px;
         background-color: rgba(238, 235, 241, 0.158);
         color: white;
-        margin-left: 30px;
+        margin-left: 150px;
         font-size: 40px;
         padding-left: 50px;
         padding-top: 50px;
@@ -291,7 +291,7 @@ nav{
         border-top: 2px solid rgb(255, 255, 255);
         justify-content: right;
         width: 100px;
-        margin-left: 530px;
+        margin-left: 650px;
         margin-top: -202px;
     }
     .leftdot{
@@ -299,7 +299,7 @@ nav{
         justify-content: right;
         font-size: 80px;
         color: white;
-        margin-right: -40px;
+        margin-right: -140px;
         margin-top: 5px;
     
     }
